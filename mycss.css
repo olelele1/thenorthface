@@ -1,0 +1,208 @@
+.header{
+    background-color:white;
+    height:150px;
+    width:100%;
+}
+
+.bad{
+    float:left;
+    width:160px;
+    height:95px;
+}
+
+.liverx{
+    list-style-type: none;
+    display:inline;
+    float:left;
+    margin:75px 0px 0px 30px;
+}
+
+.sulkaverx{
+    text-decoration: none;
+    color:black;
+}
+.sulkaverx:hover{
+    color:red;
+}
+.main{
+    background-color:white;
+    width:2500px;
+    height:1800px;
+}
+.amain{
+    text-decoration: none;
+    color:red;
+        }
+.bag1{
+    height:916px;
+    width:785px;
+    margin:0px 0px 0px 700px;
+    float:left;
+}
+.divmain{
+    float:right;
+    margin-right: 23%;
+}
+.liphotomain{
+    list-style-type: none;
+    display:inline;
+
+}
+.ulphotomain{
+    list-style-position: outside;
+}
+.mainli{
+    width:58px;
+    height:48px
+    float:left;
+}
+.knopkamain{
+    background:white;
+    border:2px solid brown;
+    width:100px;
+    height:50px;
+    text-align: center;
+}
+.knopkamain:hover{
+    background-color:chocolate;
+    color:beige;
+    transition: 1s linear;
+}
+.knopkamain2{
+    background-color:crimson;
+    color:white;
+    border:2px solid brown;
+    width:150px;
+    height:50px;
+    text-align: center;
+}
+.knopkamain2:hover{
+    background-color:black;
+    color:white;
+    transition: 1s linear;
+}
+.divblock1{
+    background-color:aliceblue;
+    width:400px;
+    height:200px;
+    padding-left:7px;
+
+}
+.zapara{
+    width:100%;
+    height:1000px;
+}
+.divblock2{
+    float:left;
+    background-color:gainsboro;
+    width:100%;
+    height:800px;
+}
+.opus{
+    margin:0 auto;
+    width:1500px;
+    height:800px;
+}
+.details{
+    height:220px;
+    width:700px;
+    line-height: 1.5;
+    float:left;
+    margin:25px 0px 0px 0px;
+}
+.features{
+    height:530px;
+    width:500px;
+    line-height: 1.5;
+    float:left;
+}
+.specifications{
+    height:370px;
+    width:500px;
+    float:right;
+    margin:25px 250px 0px 0px;
+}
+.h1details{
+    margin-bottom: -10px;
+    font-style:oblique;
+}
+.h1features{
+    margin-bottom: -10px;
+    font-style:oblique;
+}
+.h1specifications{
+    font-style:oblique;
+}
+.footer{
+background-color:white;
+width: 2500px;
+height:600px;
+    margin-top:30px;
+}
+.fullfooter{
+    width:1250px;
+    height:300px;
+    margin:0 auto;
+}
+.ulfooter{
+    list-style-type: none;
+    padding: 0;
+}
+.lifooter{
+    text-align:left;
+    padding: 0;
+    font-family: "Neue Helvetica VFDP Cond",helvetica,sans-serif;
+    font-weight: 400;
+    line-height: 2.5;
+    font-size:10pt;
+    font-stretch: semi-condensed;
+}
+.h3footer{
+    text-align: left;
+    font-size:12pt;
+    font-stretch: condensed;
+}
+.footer1{
+    width:250px;
+    height:220px;
+    background-color:white;
+    float:left;
+
+}
+.footer2{
+    width:250px;
+    height:250px;
+    background-color:white;
+    float:left;
+}
+.footer3{
+    width:250px;
+    height:300px;
+    background-color:white;
+    float:left;
+}
+.footer4{
+    width:250px;
+    height:150px;
+    background-color:white;
+    float:left;
+}
+.footer5{
+    width:250px;
+    height:150px;
+    background-color:white;
+    float:left;
+}
+.afooter{
+   text-decoration: none;
+}
+.afooter:hover{
+    color:red;
+}
+.thenorthfaceapp{
+    font-weight: 700;
+}
+.photoapp{
+    height: 50px;
+    width: 130px;
+}
